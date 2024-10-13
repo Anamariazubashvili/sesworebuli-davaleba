@@ -1,0 +1,33 @@
+body{
+  background-color: antiquewhite;
+}
+.container1{
+  background-color:rgb(0, 242, 255);
+  width: 200px;
+  height: 120px;
+margin: 50px;
+padding-top: 90px;
+text-align: center;
+color:white;
+border: 3px solid rgba(179, 25, 25, 0.647)
+}
+.container2{
+background-color:#ff00ae	;
+width: 50px;
+height: 50px;
+margin: 80px;
+padding: 45px;
+text-align: center;
+color:rgb(255, 0, 0); 
+border:2px solid #0e0efa ;
+}
+.container3{
+  background-color: #ad00d8;
+  width: 70px;
+  height: 40px;
+  margin:99px ;
+  padding-top:30px;
+  text-align: center;
+  color:white;
+  border: #e2df2b;
+}
